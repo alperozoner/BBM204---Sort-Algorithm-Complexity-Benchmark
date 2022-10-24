@@ -1,4 +1,4 @@
-# BBM204---Sort-Algorithm-Complexity-Benchmark
+# BBM204:Sort-Algorithm-Complexity-Benchmark
 Efficient sorting is important for optimizing the efficiency of other algorithms that require input
 data to be sorted. The efficiency of a sorting algorithm can be observed by applying it to sort
 datasets of varying sizes and other characteristics of the dataset instances that are to be sorted. In
